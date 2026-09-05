@@ -14,6 +14,7 @@ Examples of different use cases provided by Testcontainers can be found below:
 - [Spring Boot with Kotlin](https://github.com/testcontainers/testcontainers-java/tree/main/examples/spring-boot-kotlin-redis)
 - [TestNG](https://github.com/testcontainers/testcontainers-java/tree/main/examples/redis-backed-cache-testng)
 - [ImmuDb](https://github.com/testcontainers/testcontainers-java/tree/main/examples/immudb)
+- [Ollama with Hugging Face](https://github.com/testcontainers/testcontainers-java/tree/main/examples/ollama-hugging-face)
 - [Zookeeper](https://github.com/testcontainers/testcontainers-java/tree/main/examples/zookeeper)
 - [NATS](https://github.com/testcontainers/testcontainers-java/tree/main/examples/nats)
 - [SFTP](https://github.com/testcontainers/testcontainers-java/tree/main/examples/sftp)
